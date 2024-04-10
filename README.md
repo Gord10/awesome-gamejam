@@ -86,7 +86,7 @@
 - [bfxr](https://www.bfxr.net/) - Flash + AIR sound effects generator.
 - [sfxr](https://sfxr.me/) - Dead easy game sound effects generator.
 - [ZzFX](https://killedbyapixel.github.io/ZzFX/) - Sound effect generator similar to to BFXR/SFXR but reworked from the ground up.
-
+- [ChipTone](https://sfbgames.itch.io/chiptone) - Easy 8/16 bit sound effects generator. 
 ## Graphics
 
 ### 3D-Modelling
